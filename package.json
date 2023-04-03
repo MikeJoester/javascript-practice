@@ -1,0 +1,23 @@
+{
+  "name": "javascript-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeJoester/javascript-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeJoester/javascript-practice/issues"
+  },
+  "homepage": "https://github.com/MikeJoester/javascript-practice#readme",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
+}
